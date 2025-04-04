@@ -48,4 +48,4 @@ GROUP BY c.channel_id;
 
 **Chaitanya Krishna Kommineni**  
 [LinkedIn](https://www.linkedin.com/in/kchaitanya17/)  
-[Portfolio](https://tinyurl.com/ckommineni)
+[Portfolio]([https://tinyurl.com/ckommineni](https://ckommineni01.github.io/chaitanya-portfolio/))
